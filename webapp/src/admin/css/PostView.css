@@ -1,0 +1,34 @@
+#insertform .form-group label{
+    font-size:20px;
+}
+
+#insertform .form-group{
+    margin-bottom: 30px;
+}
+
+#insertform .form-group .form-control{
+    height: 45px !important;
+    font-size: 18px !important;
+    color: rgb(47, 110, 204) !important;
+    font-weight: bold !important;
+    
+}
+
+input.cke_dialog_ui_input_text:focus, 
+input.cke_dialog_ui_input_password:focus, 
+textarea.cke_dialog_ui_input_textarea:focus, 
+select.cke_dialog_ui_input_select:focus{
+    border: 2px solid #139ff7 !important; 
+}
+
+.btnEdit{
+    height: 50px;
+    width: 150px;
+    
+    font-size: 14px !important;
+    opacity: 0.8;
+}
+.btnEdit:hover{
+    
+    opacity: 1;
+}

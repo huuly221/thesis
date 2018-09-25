@@ -1,0 +1,24 @@
+//bkews
+{
+    "_id" : ObjectId("5ae1fc4b20768c1739b8a819"),
+    "id" : "1",
+    "title" : "chao cac ban day la bknews",
+    "image" : "http://img.f29.vnecdn.net/2017/02/18/may-in-3d-nam-sinh-bach-khoa-2954-1487424516.jpg",
+    "author" : "admin",
+    "category" : "News",
+    "createdAt" : "28/4/2018",
+    "timeUp" : "22:30",
+    "decription" : "Ðây là bài báo v?",
+    "count" : "150",
+    "like" : "10",
+    "last_modify" : "2:30",
+    "modify_by" : "CTV",
+    "category" : "Tintuc"
+}
+//////////////////
+bkevent
+{
+    "_id" : ObjectId("5ae21f8f20768c1739b8af2d"),
+    "title" : "chao cac ban cvon casdasdasc",
+    "maso" : "1"
+}

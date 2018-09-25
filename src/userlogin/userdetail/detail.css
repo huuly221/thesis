@@ -1,0 +1,102 @@
+.linkto{
+    display: inline-flex;
+    text-align: left;
+}
+.linktoa {
+    margin-left: 30px;
+    font-size: 25px;
+}
+.user-details{
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.event::after{
+    background: url(../images/calendar.png);
+}
+.feedback::after{
+    background: url(../images/feedback.png);
+}
+a.thumbnail {
+	position: relative;
+	overflow: hidden;
+    cursor: pointer;
+    background-color: #3498DB;
+}
+a.thumbnail:hover {
+	border-color: #3498DB;
+}
+a.thumbnail:hover:before {
+    left: -70%;
+    top: -130%;
+    height: 400%;
+    width: 200%;
+}
+a.thumbnail:hover:after {
+	visibility: visible;
+    -webkit-transform: scale(0.5);
+    -moz-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    -o-transform: scale(0.5);
+    transform: scale(0.5);
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+a.thumbnail::before {
+    position: absolute;
+    left: -50%;
+    top: 48%;
+    display: block;
+    margin: 0;
+    height: 0%;
+    width: 200%;
+    background-color: rgba(255,255,255,0.5);
+    content: "";
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    overflow: hidden;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    -webkit-transition: 0.65s;
+    -moz-transition: 0.65s;
+    -o-transition: 0.65s;
+    transition: 0.65s;
+}
+a.thumbnail::after {
+	position: absolute;
+	z-index: 5;
+    top: 50%;
+    left: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: -100px;
+    margin-left: -100px;
+    content: "";
+    visibility: visible;
+    -webkit-transform: scale(0.4);
+    -moz-transform: scale(0.4);
+    -ms-transform: scale(0.4);
+    -o-transform: scale(0.4);
+    transform: scale(0.4);
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    -webkit-transition: 0.45s;
+    -moz-transition: 0.45s;
+    -o-transition: 0.45s;
+    transition: 0.45s;
+}
+a.thumbnail .caption {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.calendar{
+    width: 100%;
+    height: 700px;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,21 @@
+'use strict';
+//import dependency
+var mongoose = require('mongoose');
+//var autoIncrement = require('mongoose-auto-increment');
+var Schema = mongoose.Schema;
+//var connection = mongoose.createConnection("mongodb://localhost:27017/BKDB");
+//autoIncrement.initialize(connection);
+
+//create new instance of the mongoose.schema. the schema takes an object that shows
+//the shape of your database entries.
+
+var DocumentFileSchema = new Schema({
+    filename: {type: String},
+    file: {type: String},
+    date: {type: Date, default: Date.now},
+    poster: { type: String}
+});
+
+//export our module to use in server.js
+//EventDetailSchema.plugin(autoIncrement.plugin, 'eventlists');
+module.exports = mongoose.model('documentfiles', DocumentFileSchema);

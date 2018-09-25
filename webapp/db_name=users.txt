@@ -1,0 +1,84 @@
+/* 1 */
+{
+    "_id" : ObjectId("5aebcb4ec3eef63324c19fa6"),
+    "mssv" : null,
+    "display_name" : null,
+    "password" : null,
+    "group" : null,
+    "group_name" : null,
+    "email" : null,
+    "phone" : null,
+    "avatar" : false,
+    "active" : true,
+    "activeCode" : "1525402446857",
+    "createdAt" : ISODate("2018-05-04T02:54:06.857Z"),
+    "__v" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5aebd62a007d222f585bc428"),
+    "mssv" : "saf",
+    "display_name" : null,
+    "password" : null,
+    "group" : null,
+    "group_name" : null,
+    "email" : null,
+    "phone" : null,
+    "avatar" : false,
+    "active" : false,
+    "activeCode" : "1525405226526",
+    "createdAt" : ISODate("2018-05-04T03:40:26.526Z"),
+    "__v" : 0
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5aebd66f92856024608aa8a0"),
+    "mssv" : "123",
+    "display_name" : null,
+    "password" : null,
+    "group" : null,
+    "group_name" : null,
+    "email" : null,
+    "phone" : null,
+    "avatar" : false,
+    "active" : false,
+    "activeCode" : "1525405295923",
+    "createdAt" : ISODate("2018-05-04T03:41:35.924Z"),
+    "__v" : 0
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5aebeb78a267241a30e7a7f4"),
+    "mssv" : "ASD",
+    "display_name" : null,
+    "password" : null,
+    "group" : null,
+    "group_name" : null,
+    "email" : null,
+    "phone" : null,
+    "avatar" : false,
+    "active" : false,
+    "activeCode" : "1525410680841",
+    "createdAt" : ISODate("2018-05-04T05:11:20.841Z"),
+    "__v" : 0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5b10f73f6842531cd4a6210a"),
+    "mssv" : "1412632",
+    "display_name" : "sdf",
+    "password" : "nam",
+    "group" : null,
+    "group_name" : null,
+    "email" : "1412632@hcmut.edu.vn",
+    "phone" : "65659",
+    "avatar" : false,
+    "active" : true,
+    "activeCode" : "1527838527176",
+    "createdAt" : ISODate("2018-06-01T07:35:27.177Z"),
+    "__v" : 0
+}

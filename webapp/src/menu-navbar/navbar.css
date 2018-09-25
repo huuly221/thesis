@@ -1,0 +1,131 @@
+
+.navbar-header{
+    padding:11px 0px;
+}
+ul.hover-affect>li.dropdown{
+    padding: 11px 0px;
+}
+.contact{
+    padding:11px 0px;
+
+}
+
+.menu-right{
+    padding:11px 0px;
+}
+
+
+
+.navbar-color{
+    background-color: #3498DB !important;
+    background: none;
+    font-size: 10px !important;
+
+}
+.navbar-default{
+    background-image: none !important;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    
+}
+.dropdown>.dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+      pointer-events: none;
+}
+
+@media only screen and (min-width: 1200px){
+    .navbar-toggle {
+        display: none !important;
+    }
+}
+
+/*.dropdown-menu{
+    
+  
+    -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  position: relative;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+}*/
+.hvr-glow:hover, .hvr-glow:focus, .hvr-glow:active {
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+  }
+.navbar-brand {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white !important;
+}
+a {
+    color:black !important;
+    text-decoration: none !important;
+}
+#search{
+    margin-left: -33px;
+    margin-top:1px;
+}
+.search-icon{
+    border-radius:10%;
+    border: 0.5px solid #f1f1f1;
+}
+
+.hover-affect{
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  position: relative;
+
+}
+.hvr-bounce-to-bottom:before{
+    background: #2488CB !important;
+}
+
+.border{
+    border-left: 1px solid #1874CD;      
+}
+.border:last-child{
+    border-right: 1px solid #1874CD;      
+}
+.border:hover{
+    background: rgb(16, 95, 148)!important;
+}
+.hvr-box-shadow-outset:hover, .hvr-box-shadow-outset:focus, .hvr-box-shadow-outset:active{
+    box-shadow: 1px 0px 1px 0px rgba(0,0,0,.6);
+}
+.hvr-bounce-to-right:before{
+    background: #2488CB !important;
+}
+.navbar-form{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+
+.flex-start{
+    display:flex;
+    justify-content: flex-start;
+    
+}
+.flex{
+    display: flex;
+}
+.flex-center{
+    display: flex;
+    justify-content: center;
+    
+}
+.flex-end{
+    display: flex;
+    justify-content: flex-end;
+}

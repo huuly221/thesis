@@ -1,0 +1,97 @@
+.hover-affect{
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px transparent;
+    position: relative;
+  
+}
+/*
+dropdown:hover>.dropdown-menu{
+    display:block;
+} 
+dropdown:hover>.show{
+    display:block;
+} 
+*/
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+  
+  .dropdown>.dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+      pointer-events: none;
+  }
+
+.navbarBK {
+    background-color: #3498DB !important;
+    
+    
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: #eee;
+    color: black !important;
+}
+.navbarBK a{
+    color: black;
+    text-decoration: none;
+}
+.navbar{
+    margin-bottom: 0px !important;
+    background-color: #3498DB !important;
+}
+  .navbarBK .navbar-brand {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .navbar-brand{
+      height:auto !important;
+      padding-top: 0 !important;
+      padding-bottom: 0 !important;
+      color: white;
+  }
+
+  
+  .navbarBK .nav >li >a {
+    padding-top: 35px;
+    padding-bottom: 35px;
+  }
+  .navbarBK .navbar-toggle {
+    padding: 10px;
+    margin-top: 15px;
+    margin-right: 35px;
+  }
+
+
+  .navbar-nav>li>a {
+    color: white !important;
+}
+
+span.logo-img{
+    background-color: white;
+    border-radius: 50%;
+    padding: 8px;
+}
+.navbar-right{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+} 
+.input-group{
+    margin-bottom: 0px !important;
+}
+.navbar-toggle{
+    border: 1px solid white !important;
+}
+.navbar-toggle .icon-bar{
+    background-color: white;
+}
+
+.navbar-nav>li>.dropdown-menu {
+	z-index: 9999;
+}

@@ -1,0 +1,38 @@
+{
+    "_id" : ObjectId("5967209326a580fe5b1fab5c"),
+    "answer_type_list" : [ 
+        {
+            "type" : 1,
+            "answer" : [ 
+                "Yes", 
+                "No"
+            ]
+        }, 
+        {
+            "type" : 2,
+            "answer" : [ 
+                "Poor", 
+                "So so", 
+                "Good", 
+                "Great"
+            ]
+        }, 
+        {
+            "type" : 3,
+            "answer" : [ 
+                "Strongly Disagree", 
+                "Disagree", 
+                "Agree", 
+                "Strongly Agree"
+            ]
+        }, 
+        {
+            "type" : 4,
+            "answer" : [ 
+                "Disagree", 
+                "Agree"
+            ]
+        }
+    ],
+    "survey_list" : []
+}

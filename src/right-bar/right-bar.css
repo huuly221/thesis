@@ -1,0 +1,105 @@
+.right-bar{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.sidebar-link{
+    margin-top: 30px;
+    color: white;
+    font-size: 1.5em;
+}
+.button-link{
+    height:50px;
+    background-color: #3498DB;
+    
+    width: 385px;
+    
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+.button-link:hover{
+    background-color: rgb(16, 95, 148);
+}
+.force-overflow a{
+    text-decoration: none !important;
+}
+.view-all{
+    text-align: center;
+    font-style: italic;
+    padding: 10px 0;
+    border-bottom: 0.5px solid rgb(95, 92, 92,0.5);
+}
+
+
+
+.accordation_menu label {
+	line-height:43px;
+	font-weight:400;
+	
+}
+.accordation_menu label{
+	display: block;
+	position: relative;
+	padding:0px 20px;
+	height:45px;
+	cursor: pointer;
+	z-index: 20;
+	transition: background-color .7s;
+	-webkit-transition: background-color .7s;
+	-moz-transition: background-color .7s;
+	-o-transition: background-color .7s;
+	-ms-transition: background-color .7s;
+	margin-bottom: 1px;
+	border-bottom: 1px solid #2488CB;
+}
+.accordation_menu input{
+	display: none;
+}
+/*** Right Icon ***/
+.accordation_menu label i.i-right1,
+.accordation_menu label i.i-right2{
+	float:right;
+	margin-right:15px;
+	padding:6px 0 0 0;
+	transition:all .7s;
+	-webkit-transition:all .7s;
+	-moz-transition:all .7s;
+	-o-transition:all .7s;
+	-ms-transition:all .7s;
+}
+.accordation_menu label i.i-right2{
+	display:none;
+}
+.accordation_menu input:checked + label i.i-right1{
+	display:none;
+}
+.accordation_menu input:checked + label i.i-right2{
+	display:block;
+}
+.right-bar .accordation_menu .scrollbar{
+    height:300px;
+}
+.right-bar .accordation_menu input:checked ~ div.content{
+    height:300px;
+}
+
+/* ----------------------- Carousel Video ------------------------------------------- */
+.slick-slide{
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+.slick-prev{
+    left: -10px !important;
+}
+.slick-next{
+    right: -10px !important;
+}
+.pp-title{
+    color: black !important;
+}

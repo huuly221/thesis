@@ -1,0 +1,671 @@
+/* 1 */
+{
+    "_id" : ObjectId("5b0ed73c2310020938610185"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : null,
+    "title" : "Đại học Bách Khoa 2017",
+    "description" : "Xây dựng hình mẫu Thanh niên Bách Khoa thời kỳ hội nhập là trọng tâm công tác của năm học 2016 - 2017",
+    "content" : null,
+    "poster" : "Thiện nhân",
+    "tag" : "#ff",
+    "file" : "",
+    "date" : ISODate("2018-05-30T16:54:20.660Z"),
+    "__v" : 0
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5b12149d1604fe227ccb84d5"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "ĐTN - HSV trường",
+    "title" : "NGÀY HỘI CHÀO TÂN SINH VIÊN KHÓA 2016 - BK DYNAMIC DAY 2016",
+    "description" : "",
+    "content" : "<p>Phát huy truyền thống 40 năm Đoàn trường và 21 năm của Hội Sinh viên trường, Đoàn Thanh niên – Hội Sinh viên luôn là người bạn sát cánh cùng các bạn sinh viên trong quá trình học tập và rèn luyện tại ngôi nhà Bách Khoa.</p><p>Năm học 2016 - 2017, trường Đại học Bách Khoa – ĐHQG-HCM đón hơn 3200 tân sinh viên khóa 2016, Đoàn Thanh niên – Hội Sinh viên đã chủ động gặp gỡ các bạn tân sinh viên thông qua việc hỗ trợ đón tân sinh viên nhập học, sinh hoạt công dân đầu khóa cùng sinh viên và luôn sát cánh, hỗ trợ các bạn tân sinh viên – những bạn lần đầu tiên xa gia đình để lên sinh hoạt trong môi trường đại học mang tên Bách Khoa. Trải qua 4 tuần học đầu tiên tại trường của các bạn tân sinh viên, Đoàn Thanh niên – Hội Sinh viên trường Đại học Bách Khoa tổ chức Ngày hội Chào tân sinh viên 2016 – BK Dynamic Day 2016 là hoạt động trong tâm giúp các bạn sinh viên có cơ hội giao lưu, chia sẻ với các bạn cùng khóa, để có tâm thế tốt nhất trước khi bước vào kỳ học Giáo dục Quốc phòng cùng nhau trong 1 tháng sắp tới.</p><p>Ngày hội BK Dynamic Day 2016 diễn ra với 5 nội dung: Lễ kết nạp Hội viên mới và triển lãm hình ảnh hoạt động của Đoàn - Hội; đường chạy sắc màu Color BK run, phố ẩm thực và chương trình văn nghệ BK Musical night. Ngày hội được đầu tư và coi là điểm nhấn khởi đầu cho các hoạt động của Đoàn Thanh niên – Hội Sinh viên trường năm học 2016 -2017 thể hiện tinh thần Bách Khoa: năng động, sáng tạo, trách nhiệm, tích cực…</p><p>Trong năm học 2016 - 2017, Hội Sinh viên trường tổ chức kết nạp Hội viên mới cho 3247 sinh viên, tại lễ kết nạp, Hội Sinh viên đồng thời ra mắt Ban Sinh viên cơ sở Dĩ An là bộ phận hỗ trợ công tác Hội và phong trào Sinh viên theo chỉ đạo của Hội Sinh viên trường tại cơ sở Dĩ An. Cũng trong dịp này, Công ty Cồ phần Thương mại Dịch vụ Phong Vũ trao tặng một chiếc laptop và 30 phần quà cho sinh viên nghèo vượt khó trong học tập.</p><p>Chương trình BK Musical night là điểm nhất quan trọng của Ngày hội cùng với đường chạy sắc màu Color BK run, đêm văn nghệ thể hiện sức trẻ, sự năng động của sinh viên Bách Khoa với sự góp mặt của các ca sĩ khách mời, DJ nổi tiếng…tạo nên sự bùng nổ và ấn tượng với các bạn tân sinh viên.</p><p>Ngày hội sẽ để lại ấn tượng sâu sắc với các bạn tân sinh viên và là một trong những hoạt động được định hướng là hoạt động thường niên vào tháng 10 hằng năm của Đoàn Thanh niên – Hội Sinh viên trường.</p><p><br></p><p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ĐOÀN THANH NIÊN – HỘI SINH VIÊN</strong></p><p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TRƯỜNG ĐẠI HỌC BÁCH KHOA – ĐHQG-HCM</strong></p>",
+    "poster" : "Thiện nhân",
+    "tag" : "#ff",
+    "file" : "",
+    "date" : ISODate("2018-06-02T03:53:01.933Z"),
+    "__v" : 0
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5b1215284d72db26186563a4"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "ĐTN - HSV trường",
+    "title" : "KHỞI ĐỘNG LIÊN HOAN PHIM SINH VIÊN LẦN I - NĂM 2013",
+    "description" : "Thiết thực chào mừng Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ IX nhiệm kỳ 2013 - 2018 và 64 năm ngày truyền thống Học sinh – Sinh viên (09/01/1950 - 09/01/2014).Thực hiện chương trình công tác năm học 2013 - 2014 của Hội Sinh viên thành phố, tạo sân chơi lành mạnh và là cầu nối giao lưu để Hội viên, sinh viên thể hiện và phát huy ý tưởng, khả năng sáng tạo đối với loại hình nghệ thuật điện ảnh. Góp phần tôn vinh những giá trị tinh thần tốt đẹp trong môi trường học đường, trong cuộc sống, trong hoạt động học tập, rèn luyện của sinh viên.",
+    "content" : "<p>Hội sinh viên Thành phố Hồ Chí Minh tổ chức&nbsp;Liên hoan phim sinh viên lần I - Năm 2013, gồm 03 thể loại:</p><p>-&nbsp;Phim ngắn:&nbsp;có độ dài không quá 30 phút</p><p>-&nbsp;Phim phóng sự:&nbsp;có độ dài không quá 10 phút</p><p>-&nbsp;Videoclip:&nbsp;có độ dài không quá 05 phút</p><p>Dành cho Cá nhân và tập thể sinh viên chính quy của các trường đại học, cao đẳng trên địa bàn TP. Hồ Chí Minh, với chủ đề Liên hoan&nbsp;Phim: \"Khát vọng sinh viên\" (Student aspiration).</p><p>Thời gian nhận sản phẩm dự thi từ ngày ban hành kế hoạch đến 16g00 ngày 07/12/2013.</p><p>Hãy cùng tham gia và khẳng định khát vọng sinh viên.</p><p>Thân mời các nhóm làm phim sinh viên tham dự họp báo giới thiệu \"Liên hoan phim sinh viên TP. Hồ Chí Minh\" lần thứ I năm 2013 tại MegaStar Parkson Paragon (03 Nguyễn Lương Bằng, quận 7) vào 9g00 ngày 14/11/2013 nhé!</p>",
+    "poster" : "Thiện nhân",
+    "tag" : "#ff",
+    "file" : "public/uploads/34117413_1455256044620817_5183299693978845184_n.png",
+    "date" : ISODate("2018-06-02T03:55:20.989Z"),
+    "__v" : 0
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5b1215a04d72db26186563a5"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "cơ sở",
+    "title" : "TRƯỜNG ĐẠI HỌC BÁCH KHOA KỶ NIỆM 31 NĂM NGÀY NHÀ GIÁO VIỆT NAM",
+    "description" : "Ngày 20/11/2013, trường Đại học Bách khoa – Đại học Quốc gia thành phố Hồ Chí Minh đã tổ chức lễ kỷ niệm 31 năm ngày nhà giáo Việt Nam (20/11/1982-20/11/2013).",
+    "content" : "<p>Trong những năm qua, nhiều thầy cô giáo trong trường Đại học Bách khoa đã vượt qua khó khăn trong cuộc sống, chăm lo cho việc dạy và giúp đỡ các thế hệ sinh viên học tập, nghiên cứu. Nhiều thầy cô giáo tâm huyết với nghề nghiệp trở thành các nhà khoa học đầu đàn, được nhận danh hiệu thi đua khen thưởng cấp chính phủ, cấp Bộ, cấp Đại học Quốc gia Tp.HCM… làm rạng danh cho truyền thống của trường.</p><p><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011b-1458885838916.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011b-1458885838916.jpg\"></p><p>Trong năm học vừa qua với sự phấn đấu không ngừng của nhà trường, trường Đại học Bách khoa đã được Bộ Giáo dục và Đào tạo trao tặng cờ thi đua đơn vị tiêu biểu xuất sắc, ngoài ra có 01 thầy giáo (Cao Hoàng Trụ) được phong tặng chức danh Giáo Sư và 13 thầy cô giáo phong tặng chức danh Phó Giáo sư và 46 thầy cô giáo được tặng kỷ niệm chương vì sự nghiệp giáo dục.. Nhân dịp này, chúng ta cùng chia vui với 01 đồng chí nhận Huy hiệu 40 năm tuổi Đảng và 02 đồng chí được đón nhận Huy hiệu 30 năm tuổi Đảng; 02 đồng chí được trao tặng kỷ niệm chương vì sự nghiệp kiểm tra Đảng.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trong đợt này, trường Đại học Bách khoa có 02 cá nhân được trao tặng Huân chương lao động hạng nhì (Thầy Võ Tấn Thông và thầy Trần Minh Thái); 01 tập thể trao tặng Huân chương lao động hạng 3 (Phòng CTCTSV), 02 cá nhân được trao tặng Huân chương lao động hạng 3 (thầy Trần Thiên Phúc và thầy Nguyễn Đức Thành). Đây không chỉ là vinh dự của các thầy cô giáo – những người đã cống hiến cả cuộc đời mình vì nhiệm vụ đào tạo và xây dựng thế hệ tương lai – những chủ nhân của đất nước… mà còn là niềm vinh dự, niềm tự hào chung của trường, khích lệ lòng nhiệt tình của cán bộ trẻ ngày càng vững tin vào sự nghiệp giáo dục “trồng người’ của đất nước.</p><p><br></p><p><strong><strong>Hình&nbsp;ảnh ghi lại những khoảnh khắc của buổi lễ</strong></strong></p><p><br></p><p><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011g-1458885839742.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011g-1458885839742.jpg\"></p><p><em><em>Trao huy hiệu 40 năm tuổi&nbsp;Đảng cho&nbsp;đồng chí Hoàng&nbsp;Đình Tín</em></em></p><p><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011w(1)-1458885839683.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011w(1)-1458885839683.jpg\"><em><em>Trao huy hiệu 30 năm tuổi&nbsp;Đảng cho&nbsp;đồng chí Ngô Kiều Nhi và&nbsp;đồng chí Nguyễn Ngọc Hà</em></em><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/20110-1458885839593.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/20110-1458885839593.jpg\"><em>Trao<em><em>&nbsp;</em></em>t<em>ặng kỷ niệm chương \"Vì sự nghiệp kiểm tra&nbsp;Đảng\"</em></em><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011h-1458885839795.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011h-1458885839795.jpg\"><em><em>Phan Phương Thảo - &nbsp;đại diện sinh viên tặng hoa cho thầy Hiệu trưởng</em></em><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011f-1458885839530.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011f-1458885839530.jpg\"><em><em>Chúc mừng 13 thầy cô giáo&nbsp;được phong tặng Phó Giáo sư</em></em><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011k-1458885839485.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011k-1458885839485.jpg\"><em><em>Trao tặng Huân chương lao&nbsp;động Hạng II chothầy Trần Minh Thái và thầy Võ Tấn Thông</em></em><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011d-1458885839144.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011d-1458885839144.jpg\"></p><p><em><em>Trao tặng Huân chương lao&nbsp;động Hạng III cho tập thể Phòng CTCT - SV</em></em></p><p><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011a-1458885839063.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011a-1458885839063.jpg\"><em><em>Trao Huân chương lao&nbsp;động Hạng III chothầy Trần Thiên Phúc và thầy Nguyễn&nbsp;Đức Thành</em></em><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011c-1458885838983.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011c-1458885838983.jpg\"></p><p><em><em>Trao tặng bằng khen của Thủ tướng chính phủ cho thầy Phan Thanh Sơn Nam</em></em></p><p><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011l-1458885838798.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011l-1458885838798.jpg\"></p><p><em><em>Trao tặng Kỷ niệm chương \"Vì sự nghiệp giáo dục\"</em></em></p>",
+    "poster" : "Thiện nhân",
+    "tag" : "#ff",
+    "file" : "public/uploads/1412352.txt",
+    "date" : ISODate("2018-06-02T03:57:20.159Z"),
+    "__v" : 0
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5b12164e0657060cf0f114f2"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "ĐTN - HSV trường",
+    "title" : "fwfe",
+    "description" : "fefe",
+    "content" : "<p>feefe</p>",
+    "poster" : "fef",
+    "tag" : "fefe",
+    "file" : "",
+    "date" : ISODate("2018-06-02T04:00:14.983Z"),
+    "__v" : 0
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5b1233a03f3ab7061c099a8c"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : "Trường",
+    "title" : "TTBK - Save bottle - Plant trees",
+    "description" : "Chương trình phủ xanh Bách Khoa Save bottle - Plant trees góp phần nâng cao tinh thần bảo vệ môi trường thông qua hoạt động cụ thể của sinh viên tái chế và tái sử dụng vỏ chai nhựa, vỏ lon...",
+    "content" : "<p>Hòa chung với xu thế thực hiện các giải pháp, hành động cụ thể góp phần bảo vệ môi trường, Tuổi trẻ Bách Khoa triển khai chương trình phủ xanh Bách Khoa Save bottle - Plant trees.</p><p><img alt=\"\" data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/backdrop-save-bottle-1475726949233-57cd1d2c366c8e6e2ebfb5dd.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/backdrop-save-bottle-1475726949233-57cd1d2c366c8e6e2ebfb5dd.jpg\"></p><p>Mục đích</p><p>- Kêu gọi tinh thần tham gia tích cực giải pháp 3R: Reuse, Reduce and Recycle của sinh viên đặc biệt là việc tái chế</p><p>- Thiết thực chung tay xây dựng khuôn viên Bách Khoa cơ sở Dĩ An&nbsp;xanh bằng hoạt động trồng cây xanh</p><p><br></p><p>Quy trình thực hiện</p><p><img alt=\"\" data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/capture-1475725117388-57cd1d2c366c8e6e2ebfb5dd.PNG\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/capture-1475725117388-57cd1d2c366c8e6e2ebfb5dd.PNG\"></p><p>Cách thức thực hiện</p><p>- Các bạn sinh viên thu gom và bỏ vỏ chai, vỏ lon vào thùng thu gom của chương trình;</p><p>- Ban Tổ chức&nbsp;sẽ kiểm kê số lượng vỏ chai, vỏ lon thu được và tiến hành thanh lý;</p><p>- Từ kinh phí thanh lý sẽ tiến hành trồng cây tại khuôn viên cơ sở Dĩ An của trường.</p><p><br></p><p>Thời gian triển khai: từ ngày 08/10/2016 trong Ngày hội chào tân sinh viên BK Dynamic Day</p><p><br></p><p>Kết quả thực hiện: ~ đang cập nhật</p>",
+    "poster" : "Thiện nhân",
+    "tag" : "#ff",
+    "file" : "public/uploads/if_map-marker_173052.png",
+    "date" : ISODate("2018-06-02T06:05:20.593Z"),
+    "__v" : 0
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5b1237943f3ab7061c099a8d"),
+    "id_Post" : null,
+    "category" : "giới thiệu",
+    "sub_category" : "Trường",
+    "title" : "LỄ - HỘI MỪNG CÔNG CHIẾN DỊCH TÌNH NGUYỆN MÙA HÈ XANH BÁCH KHOA 2013",
+    "description" : "Trong hai ngày 25 và 26/10/2013, Lễ - Hội mừng công chiến dịch Tình nguyện Mùa hè xanh Bách Khoa 2013 đã diễn ra trong không khí long trọng nhưng cũng không kém phần sôi nổi với những giờ phút ôn lại những thành tựu, những ký ức của một mùa chiến dịch đã qua và bên nhau trong những hoạt động vui chơi, giải trí, sinh hoạt trại...tại resort Sơn Thủy, TP Vũng Tàu.",
+    "content" : "<p>Tối&nbsp;ngày 25/10 buổi lễ tổng kết chiến dịch tình nguyện Mùa hè xanh (CDTN MHX) Bách Khoa 2013&nbsp;đã diễn ra với sự tham gia của lãnh&nbsp;đạo các cấp,&nbsp;đoàn thể thuộc hai tỉnh Trà Vinh và&nbsp;Đồng Tháp, Ban chỉ&nbsp;đạo, Ban chỉ huy cùng các chiến sĩ CDTN MHX&nbsp;đến từ nhiều đội&nbsp;hình. Buổi lễ là dịp&nbsp;để nhìn nhận và&nbsp;đánh giá kết quả CDTN MHX 2013 cũng như chặng&nbsp;đường 20 năm CDTN MHX mà thầy và trò trường&nbsp;Đại học Bách Khoa&nbsp;đã&nbsp;đi qua.</p><p>&nbsp;<img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img_8137_2-1458886383003.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img_8137_2-1458886383003.jpg\"></p><p><em><em>Nghi lễ truyền thống của lễ mừng công chiến dịch tình nguyện Mùa hè xanh trường Đại học Bách Khoa</em></em></p><p>Tại buổi lễ,&nbsp;đại diện&nbsp;Ủy ban nhân dân huyện Càng Long, tỉnh Trà Vinh -&nbsp;địa bàn&nbsp;đóng quân CDTN MHX Bách Khoa năm 2013 thay mặt nhân dân huyện Càng Long gửi lời cảm&nbsp;ơn sâu sắc&nbsp;đến toàn thể chiến sĩ tình nguyện Mùa hè xanh Bách Khoa về những công trình, phần việc thiết thực mà các bạn&nbsp;đã thực hiện trong mùa CDTN MHX vừa qua.&nbsp;Đó là những con&nbsp;đường không còn lầy lội vào mùa mưa lũ, những cây cầu giúp cho bà con&nbsp;đi lại thuận tiện hơn, những ngôi nhà tình thương - tình nghĩa khang trang cho gia&nbsp;đình chính sách, gia&nbsp;đình khó khăn hay những lớp học rộn ràng tiếng cười trẻ thơ...</p><p><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img_8124_1-1458886383167.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img_8124_1-1458886383167.jpg\"></p><p><em><em>Ban lãnh đạo trường khen thưởng Ban chỉ huy chiến dịch tình nguyện Mùa hè xanh trường Đại học Bách Khoa</em></em></p><p>Đại diện nhà trường, thầy Võ Tấn Thông - Phó Ban Chỉ&nbsp;đạo Thường trực CDTN MHX trường&nbsp;đã chia sẻ kinh nghiệm của bản thân về chặng&nbsp;đường 20 năm&nbsp;đồng hành cùng công tác tình nguyện cũng như cùng toàn thể chiến sĩ tình nguyện Mùa hè xanh của trường quyết tâm thực hiện tốt cả về số lượng và chất lượng các công trình tại huyện Càng Long trong mùa CDTN MHX 2014.Đêm hội&nbsp;được tiếp tục với phần khen thưởng cho các chiến sĩ TN MHX Bách Khoa, các&nbsp;đội hình xuất sắc trên cả hai mặt trận huyện Càng Long và TP.HCM. Trong không khí hân hoan, cùng với những giai&nbsp;điệu hào hùng của những lời ca vang vọng, tinh thần Mùa hè xanh&nbsp;được thắp lên hơn nữa và bùng cháy mãi theo thời gian,&nbsp;để rồi những chiến sĩ hôm nay sẽ là những con người truyền lửa cho những thế hệ trẻ Bách Khoa mai sau, tiếp tục chặng&nbsp;đường xây&nbsp;đắp nên nhiều công trình mang màu xanh tình nguyện.</p><p><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img_8009-1458886383321.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img_8009-1458886383321.jpg\"></p><p><em><em>Các chiến sĩ tham gia trò chơi vận động</em></em></p><p><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img_8136-1458886383109.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img_8136-1458886383109.jpg\"></p><p><em><em>Các chiến sĩ hòa nhịp trong những ca khúc tình nguyện sống mãi theo thời gian</em></em></p>",
+    "poster" : "Thiện nhân",
+    "tag" : "#ff",
+    "file" : "",
+    "date" : ISODate("2018-06-02T06:22:12.189Z"),
+    "__v" : 0
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5b123908270e922fd80a08a1"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : "Trường",
+    "title" : "TRƯỜNG ĐẠI HỌC BÁCH KHOA KỶ NIỆM 31 NĂM NGÀY NHÀ GIÁO VIỆT NAM",
+    "description" : "Ngày 20/11/2013, trường Đại học Bách khoa – Đại học Quốc gia thành phố Hồ Chí Minh đã tổ chức lễ kỷ niệm 31 năm ngày nhà giáo Việt Nam (20/11/1982-20/11/2013).",
+    "content" : "<p>Trong những năm qua, nhiều thầy cô giáo trong trường Đại học Bách khoa đã vượt qua khó khăn trong cuộc sống, chăm lo cho việc dạy và giúp đỡ các thế hệ sinh viên học tập, nghiên cứu. Nhiều thầy cô giáo tâm huyết với nghề nghiệp trở thành các nhà khoa học đầu đàn, được nhận danh hiệu thi đua khen thưởng cấp chính phủ, cấp Bộ, cấp Đại học Quốc gia Tp.HCM… làm rạng danh cho truyền thống của trường.</p><p><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011b-1458885838916.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011b-1458885838916.jpg\"></p><p>Trong năm học vừa qua với sự phấn đấu không ngừng của nhà trường, trường Đại học Bách khoa đã được Bộ Giáo dục và Đào tạo trao tặng cờ thi đua đơn vị tiêu biểu xuất sắc, ngoài ra có 01 thầy giáo (Cao Hoàng Trụ) được phong tặng chức danh Giáo Sư và 13 thầy cô giáo phong tặng chức danh Phó Giáo sư và 46 thầy cô giáo được tặng kỷ niệm chương vì sự nghiệp giáo dục.. Nhân dịp này, chúng ta cùng chia vui với 01 đồng chí nhận Huy hiệu 40 năm tuổi Đảng và 02 đồng chí được đón nhận Huy hiệu 30 năm tuổi Đảng; 02 đồng chí được trao tặng kỷ niệm chương vì sự nghiệp kiểm tra Đảng.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trong đợt này, trường Đại học Bách khoa có 02 cá nhân được trao tặng Huân chương lao động hạng nhì (Thầy Võ Tấn Thông và thầy Trần Minh Thái); 01 tập thể trao tặng Huân chương lao động hạng 3 (Phòng CTCTSV), 02 cá nhân được trao tặng Huân chương lao động hạng 3 (thầy Trần Thiên Phúc và thầy Nguyễn Đức Thành). Đây không chỉ là vinh dự của các thầy cô giáo – những người đã cống hiến cả cuộc đời mình vì nhiệm vụ đào tạo và xây dựng thế hệ tương lai – những chủ nhân của đất nước… mà còn là niềm vinh dự, niềm tự hào chung của trường, khích lệ lòng nhiệt tình của cán bộ trẻ ngày càng vững tin vào sự nghiệp giáo dục “trồng người’ của đất nước.</p><p><br></p><p><strong><strong>Hình&nbsp;ảnh ghi lại những khoảnh khắc của buổi lễ</strong></strong></p><p><br></p><p><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011g-1458885839742.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011g-1458885839742.jpg\"></p><p><em><em>Trao huy hiệu 40 năm tuổi&nbsp;Đảng cho&nbsp;đồng chí Hoàng&nbsp;Đình Tín</em></em></p><p><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011w(1)-1458885839683.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011w(1)-1458885839683.jpg\"><em><em><span class=\"ql-cursor\">﻿</span></em></em></p><p><br></p><p><em><em><span class=\"ql-cursor\">﻿﻿</span></em></em></p><p><em><em><span class=\"ql-cursor\">huy h﻿</span>iệu 30 năm tuổi&nbsp;Đảng cho&nbsp;đồng chí Ngô Kiều Nhi và&nbsp;đồng chí Nguyễn Ngọc Hà</em></em><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/20110-1458885839593.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/20110-1458885839593.jpg\"><em>Trao<em><em>&nbsp;</em></em>t<em>ặng kỷ niệm chương \"Vì sự nghiệp kiểm tra&nbsp;Đảng\"</em></em><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011h-1458885839795.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011h-1458885839795.jpg\"><em><em>Phan Phương Thảo - &nbsp;đại diện sinh viên tặng hoa cho thầy Hiệu trưởng</em></em><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011f-1458885839530.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011f-1458885839530.jpg\"><em><em>Chúc mừng 13 thầy cô giáo&nbsp;được phong tặng Phó Giáo sư</em></em><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011k-1458885839485.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011k-1458885839485.jpg\"><em><em>Trao tặng Huân chương lao&nbsp;động Hạng II chothầy Trần Minh Thái và thầy Võ Tấn Thông</em></em><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011d-1458885839144.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011d-1458885839144.jpg\"></p><p><em><em>Trao tặng Huân chương lao&nbsp;động Hạng III cho tập thể Phòng CTCT - SV</em></em></p><p><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011a-1458885839063.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011a-1458885839063.jpg\"><em><em>Trao Huân chương lao&nbsp;động Hạng III chothầy Trần Thiên Phúc và thầy Nguyễn&nbsp;Đức Thành</em></em><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011c-1458885838983.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011c-1458885838983.jpg\"></p><p><em><em>Trao tặng bằng khen của Thủ tướng chính phủ cho thầy Phan Thanh Sơn Nam</em></em></p><p><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011l-1458885838798.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/2011l-1458885838798.jpg\"></p><p><em><em>Trao tặng Kỷ niệm chương \"Vì sự nghiệp giáo dục\"</em></em></p>",
+    "poster" : "Thiện nhân",
+    "tag" : "#ff",
+    "file" : "public/uploads/redux.png",
+    "date" : ISODate("2018-06-02T06:28:24.577Z"),
+    "__v" : 0
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5b123954270e922fd80a08a2"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "ĐTN - HSV trường",
+    "title" : "Rock the Soil lần 3 năm 2013 - Sắc màu và Kịch tính",
+    "description" : "Nhằm tạo sân chơi lành mạnh cho các bạn sinh viên, thực hiện phương châm “Học và chơi”, góp phần nâng cao kiến thức và khả năng vận dụng kiến thức của các bạn sinh viên, đồng thời tạo điều kiện cho các bạn sinh viên trong khoa giao lưu và học hỏi với các bạn sinh viên đến từ các khoa bạn và trường bạn, khoa Kỹ thuật Địa chất Dầu khí đã tổ chức cuộc thi Rock the Soil lần 3 - 2013 xuyên suốt từ tháng 10 đến tháng 12, với nhiều vòng thi gay cấn và sôi động. Cùng nhìn lại những hình ảnh đẹp của cuộc thi năm nay ...",
+    "content" : "<p>CÁC GIẢI THƯỞNG NĂM NAY<strong><strong>- Giải cá nhân xuất sắc nhất :</strong></strong>&nbsp;Trần Bảo Ân – đội PAYPHONE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hoàng Văn Thắng – đội BIG BANG<strong><strong>- Giải báo cáo xuất sắc nhất :</strong></strong>&nbsp;đội DREAM HIGH<strong><strong>- Giải khuyến khích :</strong></strong>&nbsp;đội PAYPHONE, đội ĐẤT ĐÁ BÁCH KHOA, đội ĐẬP ĐÁ, đội DC10BK<strong><strong>- Giải tư :</strong></strong>&nbsp;đội DREAM HIGH<strong><strong>- Giải ba :</strong></strong>&nbsp;đội HORIZON<strong><strong>- Giải nhì :</strong></strong>&nbsp;đội BIG BANG<strong><strong>- Giải nhất :</strong></strong>&nbsp;đội N.O.S</p>",
+    "poster" : "Thiện nhân",
+    "tag" : "#ff",
+    "file" : "",
+    "date" : ISODate("2018-06-02T06:29:40.639Z"),
+    "__v" : 0
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5b1239cc270e922fd80a08a3"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "ĐTN - HSV trường",
+    "title" : "Rock the Soil lần 3 năm 2013 - Sắc màu và Kịch tính",
+    "description" : "Nhằm tạo sân chơi lành mạnh cho các bạn sinh viên, thực hiện phương châm “Học và chơi”, góp phần nâng cao kiến thức và khả năng vận dụng kiến thức của các bạn sinh viên, đồng thời tạo điều kiện cho các bạn sinh viên trong khoa giao lưu và học hỏi với các bạn sinh viên đến từ các khoa bạn và trường bạn, khoa Kỹ thuật Địa chất Dầu khí đã tổ chức cuộc thi Rock the Soil lần 3 - 2013 xuyên suốt từ tháng 10 đến tháng 12, với nhiều vòng thi gay cấn và sôi động. Cùng nhìn lại những hình ảnh đẹp của cuộc thi năm nay ...",
+    "content" : "<p>CÁC GIẢI THƯỞNG NĂM NAY<strong><strong>- Giải cá nhân xuất sắc nhất :</strong></strong>&nbsp;Trần Bảo Ân – đội PAYPHONE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hoàng Văn Thắng – đội BIG BANG<strong><strong>- Giải báo cáo xuất sắc nhất :</strong></strong>&nbsp;đội DREAM HIGH<strong><strong>- Giải khuyến khích :</strong></strong>&nbsp;đội PAYPHONE, đội ĐẤT ĐÁ BÁCH KHOA, đội ĐẬP ĐÁ, đội DC10BK<strong><strong>- Giải tư :</strong></strong>&nbsp;đội DREAM HIGH<strong><strong>- Giải ba :</strong></strong>&nbsp;đội HORIZON<strong><strong>- Giải nhì :</strong></strong>&nbsp;đội BIG BANG<strong><strong>- Giải nhất :</strong></strong>&nbsp;đội N.O.S</p>",
+    "poster" : "Thiện nhân",
+    "tag" : "#ff",
+    "file" : "",
+    "date" : ISODate("2018-06-02T06:31:40.647Z"),
+    "__v" : 0
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5b123c5c6068943704e871c4"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : "hoạt động phong trào",
+    "title" : "ĐOÀN ĐẠI BIỂU TÀU SSEAYP GHÉ THĂM ĐH BÁCH KHOA HỒ CHÍ MINH 16/11/2013",
+    "description" : "Vào lúc 10 giờ 10 phút sáng ngày 15/11, hơn 35 đại biểu đại diện cho các quốc gia trong khu vực ASEAN đã đến giao lưu với trường Đại học Bách Khoa – Đại học Quốc gia thành phố Hồ Chí Minh, bắt đầu chuỗi tháng hoạt động tại 8 trong 10 nước với mục tiêu: “ Thúc đẩy tình hữu nghị và thêm hiểu biết lẫn nhau giữa thanh niên các quốc gia Đông Nam Á với Nhật Bản, mở rộng quan điểm toàn cầu cũng như tăng cường động lực và khả năng trong hợp tác quốc tế”.",
+    "content" : "<p>Vào lúc 10 giờ 10 phút sáng &nbsp;ngày &nbsp;15/11, hơn 35 đại biểu đại diện cho các quốc gia trong khu vực ASEAN đã đến giao lưu với trường Đại học Bách Khoa – Đại học Quốc gia thành phố Hồ Chí Minh, bắt đầu chuỗi tháng hoạt động tại 8 trong 10 nước với mục tiêu:&nbsp; “ Thúc đẩy tình hữu nghị và thêm hiểu biết lẫn nhau giữa thanh niên các quốc gia Đông Nam Á với Nhật Bản, mở rộng quan điểm toàn cầu cũng như tăng cường động lực và khả năng trong hợp tác quốc tế”.</p><p><br></p><p><br></p><p><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img_9241-1458885606353.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img_9241-1458885606353.jpg\"><em><em>Cùng nhau hát vang bài hát HEAL THE WORLD</em></em></p><p>Trước sự hỗ trợ nhiệt tình của hơn 40 CTV của&nbsp; CLB UTEC, sau phần mở đầu giới thiệu sơ lược về Đại học Bách Khoa -– Đại học Quốc gia thành phố Hồ Chí Minh của Phòng Quan hệ – Đối ngoại, cũng như phát biểu của đại diện BGH trường; buổi giao lưu diễn ra khá suôn sẻ và thân thiện với các phần thảo luận nhóm xoay quanh các mối hợp tác giữa khối ASEAN và Nhật Bản trong lĩnh vực giáo dục, kinh tế, khoa học – kỹ thuật và cuộc thi vẽ tranh về mối quan hệ giữa Nhật Bản và các nước trong cộng đồng ASEAN. Ca khúc “Heal the World” vang lên, minh chứng cho tinh thần đoàn kết, hội nhập cũng như giúp đỡ nhau cùng phát triển thể hiện mong muốn, khao khát của thanh niên nói chung, tuổi trẻ ASEAN nói riêng.</p><p><br></p><p><br></p><p><img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img_9258-1458885606281.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img_9258-1458885606281.jpg\"><em><em>Cùng chơi các trò chơi dân gian</em></em></p><p><br></p><p>Tiếp theo, các đại biểu đã &nbsp;được chứng kiến tận mắt các nghệ nhân làm tò he và nhận một chú tò he gọi là quà kỷ niệm – món đồ chơi truyền thống quen thuộc của trẻ em Việt Nam. Bên cạnh đó, mọi người còn tham gia một số trò chơi dân gian như: “Viet Nam Song” với những đoạn bài hát cực kì dễ thương: Ba ngọn nến, Một con vịt … ; Cò chóe – một người bạn Malaysia nhận ra đó chính là trò chơi quan thuộc hồi nhỏ của mình; Đập heo – được rỉ tai nhau rằng khá nguy hiểm; Nhảy dây quay – có vẻ gây nhiều khó khăn cho các bạn nữ .Buổi giao lưu kết thúc &nbsp;lúc 1 giờ chiều cùng ngày với nhiều kỷ niệm đẹp mà sinh viên Bách Khoa để lại trong lòng bạn bè quốc tế.Những ngày tiếp theo, các đại biểu trong đoàn sẽ chia nhỏ nhóm ở cùng với nhà người dân địa phương, cùng sinh hoạt cũng như tìm hiểu về văn hóa của Việt Nam. &nbsp;Thuyền Nippon Maru sẽ cập bến ở điểm dừng tiếp theo &nbsp;là Thái Lan vào ngày 24-25/11 tới.</p>",
+    "poster" : "Thiện nhân",
+    "tag" : "ty",
+    "file" : "public/uploads/1920x1080_happy_people-1391069.jpg",
+    "date" : ISODate("2018-06-02T06:42:36.213Z"),
+    "__v" : 0
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5b123ca26068943704e871c5"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "ĐTN - HSV trường",
+    "title" : "grgrgrg",
+    "description" : "grgrgr",
+    "content" : "<p>grgrgrrr</p>",
+    "poster" : "Thiện nhân",
+    "tag" : "grg",
+    "file" : "public/uploads/hcmut_place.png",
+    "date" : ISODate("2018-06-02T06:43:46.702Z"),
+    "__v" : 0
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5b124f2ddcd2bb3418c06ee9"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : "Trường",
+    "title" : "GRGR",
+    "description" : "",
+    "content" : "<p>GRGR</p>",
+    "poster" : "ggrgr",
+    "tag" : "ggrg",
+    "file" : "",
+    "date" : ISODate("2018-06-02T08:02:53.113Z"),
+    "__v" : 0
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5b124f6ed584160480e8731b"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : "Trường",
+    "title" : "fefe",
+    "description" : "fefe",
+    "content" : "<p>fefee</p>",
+    "poster" : "",
+    "tag" : "",
+    "file" : "public/uploads/Sky-Wallpaper.jpg",
+    "date" : ISODate("2018-06-02T08:03:58.904Z"),
+    "__v" : 0
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5b124fc9d584160480e8731c"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : "hoạt động phong trào",
+    "title" : "Sinh viên lái xe an toàn cùng Yamaha",
+    "description" : "Ngày 14/12/2013, Yamaha đã tổ chức cuộc thi \"Sinh viên lái xe an toàn cùng Yamaha\" tại đại học Bách Khoa TP.HCM. Với sự tham gia đông đảo của các bạn sinh viên, đây là cơ hội để các bạn trau dồi thêm kiến thức về an toàn giao thông cũng như vượt qua những thử thách về lái xe an toàn. Cuộc thi chọn ra ba bạn đi tham dự vòng chung kết ở TP.Vũng Tàu với giải nhất lên đến 15.000.000 đồng.",
+    "content" : "<p>fefefe</p>",
+    "poster" : "fefe",
+    "tag" : "fefe",
+    "file" : "",
+    "date" : ISODate("2018-06-02T08:05:29.177Z"),
+    "__v" : 0
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5b1252354b63851cf0e4b5f6"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "ĐTN - HSV trường",
+    "title" : "KHAI MẠC HỘI THAO QUỐC PHÒNG NĂM 2017",
+    "description" : "Ngày 23/04/2017, tại trường Đại học Bách khoa Thành phố Hồ Chí Minh, Ban Chỉ huy Quân sự Quận 10 đã tổ chức Lễ khai mạc Hội thao quốc phòng năm 2017.",
+    "content" : "<p><strong><img alt=\"\" data-cke-saved-src=\"http://test.tuoitrebachkhoa.edu.vn/UploadImages/1-1493175334023-57cd1d2c366c8e6e2ebfb5dd.jpg\" src=\"http://test.tuoitrebachkhoa.edu.vn/UploadImages/1-1493175334023-57cd1d2c366c8e6e2ebfb5dd.jpg\"></strong></p><p><img alt=\"\" data-cke-saved-src=\"http://test.tuoitrebachkhoa.edu.vn/UploadImages/2-1493175499149-57cd1d2c366c8e6e2ebfb5dd.jpg\" src=\"http://test.tuoitrebachkhoa.edu.vn/UploadImages/2-1493175499149-57cd1d2c366c8e6e2ebfb5dd.jpg\"></p><p><strong>Hội thao nhằm đánh giá kết quả công tác huấn luyện, rèn luyện thể lực, hoạt động thể dục thể thao của cán bộ, chiến sĩ lực lượng vũ trang Quận 10; qua đó, đẩy mạnh phong trào thi đua quyết thắng, nâng cao sức khỏe cho cán bộ, chiến sĩ đáp ứng yêu cầu, nhiệm vụ sẵn sàng chiến đấu trong tình hình mới. Đồng thời, thông qua hội thao biểu dương sức mạnh nền quốc phòng toàn dân của lực lượng vũ trang Quận 10; rút kinh nghiệm trong công tác chỉ huy, chỉ đạo các đơn vị trong huấn luyện và sẵn sàng chiến đấu, bảo vệ an ninh chính trị - trật tự, an toàn xã hội trên địa bàn quận.</strong></p><p><strong>BK YOUTH</strong></p>",
+    "poster" : "fefeefeeefe",
+    "tag" : "fe",
+    "file" : "public/uploads/i-should-buy-a-boat.jpg",
+    "date" : ISODate("2018-06-02T08:15:49.595Z"),
+    "__v" : 0
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5b1252674b63851cf0e4b5f7"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "ĐTN - HSV trường",
+    "title" : "fefefe",
+    "description" : "fefefe",
+    "content" : "<p>fefee</p>",
+    "poster" : "fefe",
+    "tag" : "fefe",
+    "file" : "public/uploads/daoductot_detail.png",
+    "date" : ISODate("2018-06-02T08:16:39.570Z"),
+    "__v" : 0
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5b1252df4b63851cf0e4b5f8"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "ĐTN - HSV trường",
+    "title" : "fefefe",
+    "description" : "fefefe",
+    "content" : "<p>fefee</p>",
+    "poster" : "fefe",
+    "tag" : "fefe",
+    "file" : "",
+    "date" : ISODate("2018-06-02T08:18:39.575Z"),
+    "__v" : 0
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5b1253ba99fd5722ac92c5e8"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "ĐTN - HSV trường",
+    "title" : "HIẾN MÁU TÌNH NGUYỆN ĐỢT 1 NĂM HỌC 2017 - 2018",
+    "description" : "fefefef",
+    "content" : "<p>fefefee</p>",
+    "poster" : "fefef",
+    "tag" : "fefee",
+    "file" : "public/uploads/student5goods.png",
+    "date" : ISODate("2018-06-02T08:22:18.824Z"),
+    "__v" : 0
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5b1253ec99fd5722ac92c5e9"),
+    "id_Post" : null,
+    "category" : "giới thiệu",
+    "sub_category" : "Trường",
+    "title" : "fefegr",
+    "description" : "httbggb",
+    "content" : "<p>vxcvc</p>",
+    "poster" : "xcvsvs",
+    "tag" : "ẻ",
+    "file" : "public/uploads/tinhnguyentot_detail.png",
+    "date" : ISODate("2018-06-02T08:23:08.186Z"),
+    "__v" : 0
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5b12557499fd5722ac92c5ea"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "ĐTN - HSV trường",
+    "title" : "grgrg",
+    "description" : "grrggr",
+    "content" : "<p>grgrrgrr</p>",
+    "poster" : "grgrgr",
+    "tag" : "gr",
+    "file" : "",
+    "date" : ISODate("2018-06-02T08:29:40.596Z"),
+    "__v" : 0
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5b1255dddd466038940994e5"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "ĐTN - HSV trường",
+    "title" : "fefe",
+    "description" : "fefe",
+    "content" : "<p>fee</p>",
+    "poster" : "fefe",
+    "tag" : "fef",
+    "file" : "public/uploads/_mg_0351-1458880830280.jpg",
+    "date" : ISODate("2018-06-02T08:31:25.413Z"),
+    "__v" : 0
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5b1255ffdd466038940994e6"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "ĐTN - HSV trường",
+    "title" : "brbrbr",
+    "description" : "brbrbr",
+    "content" : "<p>brbrbrb</p>",
+    "poster" : "gtgtt",
+    "tag" : "gtgt",
+    "file" : "public/uploads/_mg_0410-1458880829461.jpg",
+    "date" : ISODate("2018-06-02T08:31:59.444Z"),
+    "__v" : 0
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5b12563f1f7bfb33308e849f"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "ĐTN - HSV trường",
+    "title" : "ytthbt",
+    "description" : "htht",
+    "content" : "<p>htht</p>",
+    "poster" : "grgr",
+    "tag" : "",
+    "file" : "public/uploads/_mg_0377_1-1458880829863.jpg",
+    "date" : ISODate("2018-06-02T08:33:03.141Z"),
+    "__v" : 0
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5b12565c1f7bfb33308e84a0"),
+    "id_Post" : null,
+    "category" : "giới thiệu",
+    "sub_category" : "cơ sở",
+    "title" : "grgrgr",
+    "description" : "grgrr",
+    "content" : "<p>hthtgr</p>",
+    "poster" : "grrgr",
+    "tag" : "grgr",
+    "file" : "public/uploads/_mg_0377_1-1458880829863.jpg",
+    "date" : ISODate("2018-06-02T08:33:32.651Z"),
+    "__v" : 0
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5b1256721f7bfb33308e84a1"),
+    "id_Post" : null,
+    "category" : "giới thiệu",
+    "sub_category" : "ĐTN - HSV trường",
+    "title" : "",
+    "description" : "",
+    "content" : "<p>hthtgr</p>",
+    "poster" : "",
+    "tag" : "",
+    "file" : "",
+    "date" : ISODate("2018-06-02T08:33:54.039Z"),
+    "__v" : 0
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5b1256a11f7bfb33308e84a2"),
+    "id_Post" : null,
+    "category" : "giới thiệu",
+    "sub_category" : "Trường",
+    "title" : "grgr",
+    "description" : "grgrere",
+    "content" : "<p>grgr</p>",
+    "poster" : "",
+    "tag" : "",
+    "file" : "public/uploads/New Use Case Film Production.png",
+    "date" : ISODate("2018-06-02T08:34:41.844Z"),
+    "__v" : 0
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5b1256fd1f7bfb33308e84a3"),
+    "id_Post" : null,
+    "category" : "giới thiệu",
+    "sub_category" : "Trường",
+    "title" : "fefe",
+    "description" : "",
+    "content" : "<p>grgr</p>",
+    "poster" : "",
+    "tag" : "",
+    "file" : "public/uploads/28343103_864956146997577_1389146692_o.jpg",
+    "date" : ISODate("2018-06-02T08:36:13.178Z"),
+    "__v" : 0
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5b1257191f7bfb33308e84a4"),
+    "id_Post" : null,
+    "category" : "giới thiệu",
+    "sub_category" : "Trường",
+    "title" : "grgr",
+    "description" : "grgrere",
+    "content" : "<p>grgr</p>",
+    "poster" : "",
+    "tag" : "",
+    "file" : "",
+    "date" : ISODate("2018-06-02T08:36:41.849Z"),
+    "__v" : 0
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5b1257751f7bfb33308e84a5"),
+    "id_Post" : null,
+    "category" : "giới thiệu",
+    "sub_category" : "Trường",
+    "title" : "fefe",
+    "description" : "",
+    "content" : "<p>grgr</p>",
+    "poster" : "",
+    "tag" : "",
+    "file" : "public/uploads/if_map-marker_173052.png",
+    "date" : ISODate("2018-06-02T08:38:13.187Z"),
+    "__v" : 0
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5b12ae9ea02b451c443eaf09"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : "Trường",
+    "title" : "Tinh thần đoàn kết, cùng chung tay khắc phục hậu quả cơn mưa lịch sử của thầy cô và sinh viên trường Bách Khoa – ĐHQG-HCM!",
+    "description" : "",
+    "content" : "<p>Với lượng mưa đạt được 200mm, trận mưa lịch sử chiều ngày 26/9/2016 đã để lại rất nhiều khó khăn cho người dân đang sinh sống tại TP.HCM. Nhiều đoan đường ngập nước vì hệ thống cống rãnh quá tải, nước dâng lên tràn cả vào nhà người dân, sinh hoạt hằng ngày bị đảo lộn, những chiếc xe máy để dưới tầng hầm phải chịu cảnh “ngâm mình” trong thời gian dài là những hậu quả để lại sau cơn mưa bất ngờ đó. Tầng hầm Kí túc xá ĐHQG-HCM cũng không phải ngoại lệ.</p><p>Hàng trăm chiếc xe của sinh viên ĐHQG-HCM nói chung và ĐH Bách Khoa nói riêng, từ xe số đến xe tay ga đều cùng chung số phận ngâm nước quá lâu do sự ảnh hưởng bất ngờ từ thời tiết. Tuy nhiên, chính nhờ hoàn cảnh ấy, đã xuất hiện những nhân vật “đặc biệt” – sẵn sàng đứng ra giúp đỡ người khác giữa lúc khó khăn&nbsp; mà không cần nhận bất cứ sự báo đáp nào.</p><p>Như báo chí đã đưa tin gần đây, hai “soái ca sửa xe”: Văn Minh Hiệp (sinh viên năm 3 khoa Môi trường và Tài nguyên – ĐHBK) và Nguyễn Công Nhật Minh (sinh viên năm 2 khoa Kỹ thuật Xây dựng – ĐHBK), chưa qua trường lớp đào tạo nào về sửa xe, tuy nhiên vì tinh thần tương thân tương ái, các bạn đã sửa chữa miễn phí cho nhiều chiếc xe tại Kí túc xá khu A – ĐHQG-HCM. Vì hành động hào hiệp ấy, ngày 30/09/2016 anh Lâm Đình Thắng – Phó Bí thư Thường trực Thành đoàn – Chủ tịch Hội sinh viên Thành phố cùng đoàn công tác của Thành đoàn – Hội Sinh viên Thành phố, Ban cán sự Đoàn ĐHQG-HCM đã đến động viên, trao bằng khen cho hai sinh viên Bách Khoa đã không ngại khó khăn, ra tay giúp sức vì cộng đồng</p><p><strong><img data-cke-saved-src=\"file:///C:/Users/THANHL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.jpg\" src=\"file:///C:/Users/THANHL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.jpg\"><img alt=\"Với lượng mưa đạt được 200mm, trận mưa lịch sử chiều ngày 26/9/2016 đã để lại rất nhiều khó khăn cho người dân đang sinh sống tại TP.HCM. Nhiều đoan đường ngập nước vì hệ thống cống rãnh quá tải, nước dâng lên tràn cả vào nhà người dân, sinh hoạt hằng ngày bị đảo lộn, những chiếc xe máy để dưới tầng hầm phải chịu cảnh “ngâm mình” trong thời gian dài là những hậu quả để lại sau cơn mưa bất ngờ đó. Tầng hầm Kí túc xá ĐHQG-HCM cũng không phải ngoại lệ.  Hàng trăm chiếc xe của sinh viên ĐHQG-HCM nói chung và ĐH Bách Khoa nói riêng, từ xe số đến xe tay ga đều cùng chung số phận ngâm nước quá lâu do sự ảnh hưởng bất ngờ từ thời tiết. Tuy nhiên, chính nhờ hoàn cảnh ấy, đã xuất hiện những nhân vật “đặc biệt” – sẵn sàng đứng ra giúp đỡ người khác giữa lúc khó khăn&nbsp; mà không cần nhận bất cứ sự báo đáp nào.  Như báo chí đã đưa tin gần đây, hai “soái ca sửa xe”: Văn Minh Hiệp (sinh viên năm 3 khoa Môi trường và Tài nguyên – ĐHBK) và Nguyễn Công Nhật Minh (sinh viên năm 2 khoa Kỹ thuật Xây dựng – ĐHBK), chưa qua trường lớp đào tạo nào về sửa xe, tuy nhiên vì tinh thần tương thân tương ái, các bạn đã sửa chữa miễn phí cho nhiều chiếc xe tại Kí túc xá khu A – ĐHQG-HCM. Vì hành động hào hiệp ấy, ngày 30/09/2016 anh Lâm Đình Thắng – Phó Bí thư Thường trực Thành đoàn – Chủ tịch Hội sinh viên Thành phố cùng đoàn công tác của Thành đoàn – Hội Sinh viên Thành phố, Ban cán sự Đoàn ĐHQG-HCM đã đến động viên, trao bằng khen cho hai sinh viên Bách Khoa đã không ngại khó khăn, ra tay giúp sức vì cộng đồng    Đồng chí Lâm Đình Thắng thăm hỏi, tặng Bằng khen và quà cho hai “soái ca”  Bạn Văn Minh Hiệp chia sẻ: “Đầu tiên là cảm giác rất bất ngờ, sau đó là cảm thấy vui vì việc làm mình có ích và được mọi người ủng hộ.” Cùng chung suy nghĩ với Hiệp, bạn Nhật Minh cũng thấy rất bất ngờ, từ hôm thầy Trần Trung Nghĩa – Bí thư Đoàn trường trao giấy khen và hôm nay đến Thành Đoàn - Hội sinh viên Thành phố xuống động viên, tặng quà. Chính đó làm động lực để hai bạn có thể tiếp tục công việc của mình. Minh còn nói thêm: “Lúc đầu mình với Hiệp khá là cực, đi mưa gió dắt xe từ tòa nhà AH lên sảnh A20 để sửa chữa. Tuy nhiên nhận được bằng khen rồi, mình thấy việc làm của mình xứng đáng và có ích”.    Hai sinh viên Văn Minh Hiệp và Nguyễn Công Nhật Minh giúp các bạn sửa xe.  Anh Đào Vũ Hoàng Nam – Chủ tịch Hội Sinh viên trường Đại học Bách Khoa cũng xuống, giúp đỡ, dành lời khen cho hai bạn: “Trước tiên anh phải nói, sinh viên Bách Khoa rất giỏi, rất đoàn kết, tương thân tương ái với nhau. Như trong học tập chúng ta có “Đôi bạn cùng tiến”, thì sự việc này cũng thế, xe các bạn sửa xong, thấy xe các bạn khác, dù là tài sản của mình hay của ai, thì các bạn cũng ra sức giúp đỡ”.  Tinh thần tương thân tương ái của tập thể trường Đại học Bách Khoa đã lan tỏa đến báo chí, các nhà tài trợ. Cũng trong ngày 30/09/2016, công ty Bách Việt đã hỗ trợ 850 bình nhớt và nhân viên kĩ thuật xuống tư vấn, giúp đỡ cho các bạn sinh viên có xe bị hư hại do cơn mưa vừa qua. Thêm vào đó là sự tham gia của gần 20 bạn sinh viên và thầy Nguyễn Đình Hùng – giảng viên bộ môn Kỹ thuật ô tô của khoa Kỹ thuật Giao thông cùng hai “soái ca sửa xe” Minh Hiệp và Nhật Minh chung tay góp sức sữa chữa. Dù mới chỉ hơn một tiếng, đội ngũ kỹ thuật đã nhận “cải tạo” gần cả trăm chiếc xe máy cho không chỉ riêng sinh viên Bách Khoa mà còn cả sinh viên thuộc ĐHQG-HCM.    Công ty Bách Việt – đã hỗ trợ 850 bình nhớt và nhân viên kỹ thuật xuống tư vấn.  Dù là sinh viên trường ta hay trường khác, Đoàn thanh niên – Hội sinh viên và tất cả sinh viên Bách Khoa đều sẽ chung tay góp sức, giúp đỡ để tất cả cùng nhau vượt qua khó khăn này.\" data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img-8936-1-1475313922222-57bb3c0d175e3d831d414756.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img-8936-1-1475313922222-57bb3c0d175e3d831d414756.jpg\"></strong></p><p><em>Đồng chí Lâm Đình Thắng thăm hỏi, tặng&nbsp;Bằng khen&nbsp;và&nbsp;quà&nbsp;cho hai “soái ca”</em></p><p>Bạn Văn Minh Hiệp chia sẻ: “Đầu tiên là cảm giác rất bất ngờ, sau đó là cảm thấy vui vì việc làm mình có ích và được mọi người ủng hộ.” Cùng chung suy nghĩ với Hiệp, bạn Nhật Minh cũng thấy rất bất ngờ, từ hôm thầy Trần Trung Nghĩa – Bí thư Đoàn trường trao giấy khen và hôm nay đến Thành Đoàn - Hội sinh viên Thành phố xuống động viên, tặng quà. Chính đó làm động lực để hai bạn có thể tiếp tục công việc của mình. Minh còn nói thêm: “Lúc đầu mình với Hiệp khá là cực, đi mưa gió dắt xe từ tòa nhà AH lên sảnh A20 để sửa chữa. Tuy nhiên nhận được bằng khen rồi, mình thấy việc làm của mình xứng đáng và có ích”.</p><p><strong><img data-cke-saved-src=\"file:///C:/Users/THANHL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg\" src=\"file:///C:/Users/THANHL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg\"><img alt=\"\" data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img-8841-1475314010633-57bb3c0d175e3d831d414756.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img-8841-1475314010633-57bb3c0d175e3d831d414756.jpg\"></strong></p><p><em>Hai \"Soái ca\"&nbsp;sinh viên&nbsp;Văn Minh Hiệp và Nguyễn Công Nhật Minh&nbsp;giúp các bạn sửa xe</em>.</p><p>Anh Đào Vũ Hoàng Nam – Chủ tịch Hội Sinh viên trường Đại học Bách Khoa cũng xuống, giúp đỡ, dành lời khen cho hai bạn: “Trước tiên anh phải nói, sinh viên Bách Khoa rất giỏi, rất đoàn kết, tương thân tương ái với nhau. Như trong học tập chúng ta có “Đôi bạn cùng tiến”, thì sự việc này cũng thế, xe các bạn sửa xong, thấy xe các bạn khác, dù là tài sản của mình hay của ai, thì các bạn cũng ra sức giúp đỡ”.</p><p>Tinh thần tương thân tương ái của tập thể trường Đại học Bách Khoa đã lan tỏa đến báo chí, các nhà tài trợ. Cũng trong ngày 30/09/2016, công ty Bách Việt đã hỗ trợ 850 bình nhớt và nhân viên kĩ thuật xuống tư vấn, giúp đỡ cho các bạn sinh viên có xe bị hư hại do cơn mưa vừa qua. Thêm vào đó là sự tham gia của gần 20 bạn sinh viên và thầy Nguyễn Đình Hùng – giảng viên bộ môn Kỹ thuật ô tô của khoa Kỹ thuật Giao thông cùng hai “soái ca sửa xe” Minh Hiệp và Nhật Minh chung tay góp sức sữa chữa. Dù mới chỉ hơn một tiếng, đội ngũ kỹ thuật đã nhận “cải tạo” gần cả trăm chiếc xe máy cho không chỉ riêng sinh viên Bách Khoa mà còn cả sinh viên thuộc ĐHQG-HCM.</p><p><strong><img data-cke-saved-src=\"file:///C:/Users/THANHL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image003.jpg\" src=\"file:///C:/Users/THANHL~1/AppData/Local/Temp/msohtmlclip1/01/clip_image003.jpg\"><img alt=\"\" data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img-8798-1475314104764-57bb3c0d175e3d831d414756.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/img-8798-1475314104764-57bb3c0d175e3d831d414756.jpg\"></strong></p><p><em>Công ty Bách Việt – đã hỗ trợ 850 bình nhớt và nhân viên kỹ thuật xuống tư vấn.</em></p><p>Dù là sinh viên trường ta hay trường khác, Đoàn thanh niên – Hội sinh viên và tất cả sinh viên Bách Khoa đều sẽ chung tay góp sức, giúp đỡ để tất cả cùng nhau vượt qua khó khăn này.</p>",
+    "poster" : "cfefe",
+    "tag" : "feee",
+    "file" : "",
+    "date" : ISODate("2018-06-02T14:50:06.217Z"),
+    "__v" : 0
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5b12af03a02b451c443eaf0a"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : "Trường",
+    "title" : "THÁCH THỨC VỀ NGUỒN NĂNG LƯỢNG CHO ĐÔ THỊ VIỆT",
+    "description" : "Sự gia tăng về dân số khiến việc đáp ứng nhu cầu năng lượng trở thành một thách thức lớn, cần có giải pháp an toàn và bền vững. Chẳng hạn: \"Tạo pin năng lượng mặt trời bằng vật liệu mới. Địa nhiệt - nguồn năng lượng bị lãng quên\".",
+    "content" : "<p>Hơn 300 chuyên gia năng lượng, nhà hoạch định chính sách và doanh nghiệp, tham gia hội nghị và triển lãm về năng lượng Châu Á Ascope vừa diễn ra tại TP HCM. Các chuyên gia đánh giá, trong bối cảnh dân số và kinh tế đô thị ngày một tăng nhanh, đáp ứng nhu cầu sử dụng năng lượng cho 90 triệu người dân Việt Nam là một thách thức thực sự, đặc biệt là tại các thành phố lớn như TP HCM và Hà Nội.</p><p>Tình trạng này cũng chung trên thế giới. Cứ mỗi ngày trôi qua, dân số thế giới lại tăng thêm khoảng 200.000 người, và dự kiến sẽ đạt 9 tỷ vào năm 2050. Ở khu vực Đông Nam Á, dân số đô thị đã tăng gần gấp đôi trong hai thập kỷ qua. Khoảng 44% số dân đang sinh sống tại khu vực đô thị, và tỷ lệ này sẽ tiếp tục tăng lên khoảng 2/3 cho đến năm 2050.&nbsp;</p><p>Trong vài thập kỷ tới, hàng chục triệu người sẽ được tiếp cận dịch vụ y tế, phương tiện giao thông công cộng và nguồn năng lượng điện ổn định. Hàng triệu người bắt đầu chuyển sang sử dụng xe hơi, các sản phẩm gia dụng như tivi, tủ lạnh.&nbsp;Các xu hướng này sẽ làm gia tăng áp lực đáp ứng nhu cầu sản xuất điện đối với nhà hoạch định chính sách. Dự đoán đến năm 2020, mức tiêu thụ điện thế giới sẽ tăng khoảng 25-35% so với năm 2012.</p><p>Theo các chuyên gia, để giải quyết thách thức về năng lượng tại khu vực Đông Nam Á, cần phải ưu tiên giải quyết các vấn đề ô nhiễm ở khu vực đô thị. Nhiều quốc gia đã lập kế hoạch xử lý tình trạng ô nhiễm không khí, trong đó giới hạn sử dụng than đốt và giải quyết vấn đề khí thải của phương tiện giao thông. Việc đưa ra các tiêu chuẩn về chất lượng không khí trong toàn khu vực sẽ là bước đi quan trọng và đúng hướng.&nbsp;</p><p>Các chuyên gia hướng nhiều về khí thiên nhiên như một giải pháp an toàn và bền vững cho nguồn năng lượng tương lai của châu Á.&nbsp;Theo Cơ quan Năng lượng Quốc tế IEA, nguồn tài nguyên khí thiên nhiên này sẽ đủ để sử dụng trong hơn 250 năm nữa, với mức tiêu thụ như hiện tại.&nbsp;</p><p>Nhiều ý kiến cho rằng, chính phủ các nước trong khu vực cần có chính sách ưu tiên hàng đầu sử dụng khí thiên nhiên do trữ lượng dồi dào, an toàn hơn cho môi trường và sức khỏe, chi phí thấp&nbsp;thay cho các nguồn năng lượng hóa thạch gây ô nhiễm cao.&nbsp;</p><p>“Cần ưu tiên giải quyết vấn đề ô nhiễm tại các khu vực đô thị, đưa ra các tiêu chuẩn về chất lượng không khí, loại bỏ các trợ cấp cho nhiên liệu hóa thạch không hiệu quả\", ông Van Bergen, Tổng giám đốc phát triển thị trường khí và khí thiên nhiên hóa lỏng của tập đoàn Royal Dutch Shell nói.<s>​​​​​​​</s></p>",
+    "poster" : "Thiện nhân",
+    "tag" : "#ff",
+    "file" : "public/uploads/mongodb.png",
+    "date" : ISODate("2018-06-02T14:51:47.072Z"),
+    "__v" : 0
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5b12af32a02b451c443eaf0b"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : "Trường",
+    "title" : "grgrgrr",
+    "description" : "grgrhrbtvgb",
+    "content" : "<p>vdfetenjng</p>",
+    "poster" : "Thiện nhân",
+    "tag" : "#ff",
+    "file" : "",
+    "date" : ISODate("2018-06-02T14:52:34.337Z"),
+    "__v" : 0
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5b12afbc8f9d4619a00e8d2f"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : "Trường",
+    "title" : "rgrg",
+    "description" : "grr",
+    "content" : "<p>grgrr</p>",
+    "poster" : "Thiện nhân",
+    "tag" : "",
+    "file" : "public/uploads/31936758_246041152624528_3073855450333052928_n.jpg",
+    "date" : ISODate("2018-06-02T14:54:52.128Z"),
+    "__v" : 0
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5b12afe38f9d4619a00e8d30"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "ĐTN - HSV trường",
+    "title" : "grgr",
+    "description" : "grgr",
+    "content" : "<p>grggr</p>",
+    "poster" : "Thiện nhân",
+    "tag" : "",
+    "file" : "",
+    "date" : ISODate("2018-06-02T14:55:31.224Z"),
+    "__v" : 0
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("5b12b02b9be6870ae0e8036e"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : "Trường",
+    "title" : "grgrgr",
+    "description" : "grgrgr",
+    "content" : "<p>grgrgr</p>",
+    "poster" : "grgr",
+    "tag" : "grgr",
+    "file" : "",
+    "date" : ISODate("2018-06-02T14:56:43.962Z"),
+    "__v" : 0
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("5b12b04d9be6870ae0e8036f"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : "Trường",
+    "title" : "grgrgr",
+    "description" : "grgrgr",
+    "content" : "<p>grgrgr</p>",
+    "poster" : "grgr",
+    "tag" : "grgr",
+    "file" : "",
+    "date" : ISODate("2018-06-02T14:57:17.417Z"),
+    "__v" : 0
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("5b12b059f668363320545fe8"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : "Trường",
+    "title" : "grgrgr",
+    "description" : "grgrgr",
+    "content" : "<p>grgrgr</p>",
+    "poster" : "grgr",
+    "tag" : "grgr",
+    "file" : "",
+    "date" : ISODate("2018-06-02T14:57:29.821Z"),
+    "__v" : 0
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("5b12b29c89d43a1d501c5fac"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : "Trường",
+    "title" : "fefe",
+    "description" : "grgr",
+    "content" : "<p>grgrgr</p>",
+    "poster" : "frfr",
+    "tag" : "grg",
+    "file" : "public/uploads/28946608_1814567271940555_1040184472_o.jpg",
+    "date" : ISODate("2018-06-02T15:07:08.065Z"),
+    "__v" : 0
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("5b12b2dc89d43a1d501c5fad"),
+    "id_Post" : null,
+    "category" : "sự kiện",
+    "sub_category" : "cơ sở",
+    "title" : "Ngày hội Văn hóa Pháp 2016",
+    "description" : "grethte",
+    "content" : null,
+    "poster" : "fefe",
+    "tag" : "feee",
+    "file" : "public/uploads/phanbien.xlsx",
+    "date" : ISODate("2018-06-02T15:08:12.112Z"),
+    "__v" : 0
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("5b12b32289d43a1d501c5fae"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : "hoạt động phong trào",
+    "title" : "10 LÝ DO TẠI SAO BẠN KHÔNG NÊN SỐNG TRONG QUÁ KHỨ",
+    "description" : "Bạn thường thở dài khi không có ai bên cạnh? Bạn thường tiếc nuối vì cuộc sống của mình đã thay đổi? Bạn ước rằng mình có thể quay lại với mối tình trước kia hay với cách sống nào đó? Nếu bạn trả lời “vâng” cho bất kì câu hỏi nào trên đây, có khả năng bạn đang chìm đắm trong quá khứ. Việc cố gắng níu kéo một cái gì đó là điều dễ hiểu, vì quá khứ là những gì đã quen thuộc với mỗi người, trong khi tương lai là một điều không chắc chắn và đáng sợ.",
+    "content" : "<p>Tuy nhiên đã đến lúc cần phải nhận ra rằng sống trong quá khứ là một sai lầm. Thay vào đó hãy hướng về tương lai hay ít nhất là tận hưởng những giây phút hiện tại. Sau đây xin đưa ra 10 lý do tại sao bạn nên làm vậy.1. Những&nbsp;điều trong quá khứ không còn phù hợp với hiện tại và tương laiBạn không còn sử dụng máy nhắn tin bởi vì bạn đã có điện thoại di động. Trước kia, để gặp gỡ một người nào đó ở xa người ta phải đi bộ hay dùng những phương tiện thô sơ và mất thời gian khá lâu. Giờ đây với những thành tựu của một nền công nghệ tiên tiến bạn không cần phải như vậy nữa. Một mối quan hệ đã qua cũng giống như chiếc máy nhắn tin, bạn vẫn có thể sử dụng nó, nhưng có nhiều cách để chuyển tải thông tin nhanh chóng và thuận tiện hơn cho bạn lựa chọn.2. Quá khứ là một&nbsp;ý niệm trừu tượngĐiều duy nhất bạn có thể làm với quá khứ là ghi nhớ nó. Dù nhiều người cho rằng họ nhớ đến những thời khắc đau khổ lâu hơn là những điều hạnh phúc đã xảy ra. Đó là lý do tại sao chúng ta không thể để quá khứ ngủ vùi, vì chúng ta thường xem quá khứ là một cái gì đó hoàn hảo khi so sánh nó với hiện tại. Chẳng hạn như khi là một đứa trẻ, bạn có ít trách nhiệm và nghĩa vụ, nhưng bạn cũng không thể tự làm bất kì điều gì mình muốn, vì vậy bạn ao ước mau chóng trở thành người lớn với đầy đủ trách nhiệm và quyền năng. Tuy nhiên khi lớn lên có thể bạn chỉ nhớ về khoảng thời gian vô tư thuở bé và quên đi bạn từng muốn được nhanh trưởng thành như thế nào.3. Quá khứ chỉ làm&nbsp;đau nếu bạn cho phépNếu hôm qua bạn bị đau đầu, thì nó đã kết thúc rồi. Quá khứ chỉ làm phiền bạn khi bạn nhớ lại mình đã chịu đựng như thế nào. Thay vì tập trung vào nỗi đau trong quá khứ, tại sao không tận hưởng những gì của ngày hôm nay mà bạn không thể có được vào hôm qua?4. Cuộc sống luôn vận&nbsp;động, quá khứ mãi mãi&nbsp;đứng yênHãy tưởng tượng cuộc sống của bạn giống như cuộc chạy đua marathon. Mục tiêu không phải là “cố thủ” ở vạch xuất phát, mà là tiến lên phía trước. Nếu mọi người đang chạy và bạn đứng yên, tất nhiên bạn sẽ là kẻ thua cuộc. Hãy bắt đầu cuộc đua, vì có rất nhiều điều tuyệt vời bạn sẽ gặp trên đường chạy cuộc đời.<img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/57-1458995897537.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/57-1458995897537.jpg\">5. Quá khứ&nbsp;đang gặm nhấm bạnQuá khứ giống như thi hài của một người thân quá cố. Bạn không muốn để người ấy ra đi, nhưng bạn không thể nào giữ lại cơ thể đó trong thời gian lâu được. Vì vậy hãy chôn vùi quá khứ và làm sạch “ngôi nhà tâm hồn” của bạn ngay từ bây giờ.6. \"Bạn của ngày hôm qua\" không liên quan&nbsp;đến \"bạn của hiện tại\"Bất kì điều gì xảy ra trước đây với “bạn của hôm qua” sẽ không còn mang lại cảm giác tương tự đối với “bạn của hôm nay”. Thuở nhỏ bạn từng khóc khi món đồ chơi yêu thích của mình bị hỏng? Giờ thì chắc chắn bạn sẽ không khóc vì điều đó, lý do là bạn không còn chơi món đồ ấy nữa. Điều này cũng đúng với những mối quan hệ đã qua. Một điều gì đó từng khiến bạn vui vẻ có thể sẽ không còn tác dụng với bạn hiện tại, vì bạn đã là một con người khác, và bạn đã có những mục tiêu mới cho tương lai của mình.7. Quá khứ là \"dinh dưỡng\" giúp bạn phát triển, không phải là chướng ngạiHãy nhìn lại quá khứ với con mắt suy xét cẩn trọng: Bạn đã học được điều gì? Nó đã thay đổi bạn như thế nào? Nếu bạn gặp tình huống tương tự trong tương lai, bạn sẽ phản ứng như thế nào? Điều quan trọng hơn cần phải nhận ra rằng quá khứ là một phần làm nên con người hiện tại của bạn, mạnh mẽ và trưởng thành, và bạn nên biết ơn vì điều đó.8. Quá khứ là một sự khiếm khuyết không thể thay&nbsp;đổiBạn không hề muốn bám vào một cái gì đó khiếm khuyết? Quá khứ không thể thay đổi nhưng bạn có một lợi thế đó là khả năng xoay chuyển tình hình, vì vậy hãy để quá khứ làm điểm tựa giúp bạn tiến xa hơn.9.&nbsp;Đừng&nbsp;đánh mất cuộc sống&nbsp;đầy hứa hẹn bởi những gì&nbsp;đã quaKhi chìm đắm trong quá khứ, bạn không thể lên kế hoạch cho tương lai và tận hưởng hiện tại. Dù những gì đã xảy ra có tuyệt vời như thế nào, thì bạn cũng là người làm chủ vận mệnh cuộc đời mình, và xây dựng nó hay không là tùy thuộc ở bản thân bạn. Do đó đừng phí thời gian sống với những gì đã qua mà hãy háo hức khám phá những điều đang đón chờ mình trong tương lai.10. Quá khứ trong tâm trí khiến bạn như chú chim trong lồngVà một chú chim trong lồng sẽ mất đi sự tự do. Có thể bạn cảm thấy vui với quá khứ trong một thời điểm nào đấy, nhưng có lúc bạn sẽ thấy mệt mỏi. Bạn cần trả tự do cho bản thân, hãy để quá khứ qua đi nhẹ nhàng bạn sẽ thấy vui vẻ và thoải mái hơn với chính mình và cuộc sống.<img data-cke-saved-src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/58-1458995897555.jpg\" src=\"http://tuoitrebachkhoa.edu.vn/UploadImages/58-1458995897555.jpg\"></p>",
+    "poster" : "Thiện nhân",
+    "tag" : "grgr",
+    "file" : "public/uploads/Phạm Cao Hồng Hạnh.Chemical.docx",
+    "date" : ISODate("2018-06-02T15:09:22.220Z"),
+    "__v" : 0
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("5b13939ed39c881644e4dc62"),
+    "id_Post" : null,
+    "category" : "tin tức",
+    "sub_category" : "Trường",
+    "title" : "fefeththt",
+    "description" : "fefee",
+    "content" : "<p>btttntnt</p>",
+    "poster" : "Thiện nhân",
+    "tag" : "hbt",
+    "file" : "public/uploads/28946608_1814567271940555_1040184472_o.jpg",
+    "date" : ISODate("2018-06-03T07:07:10.764Z"),
+    "__v" : 0
+}

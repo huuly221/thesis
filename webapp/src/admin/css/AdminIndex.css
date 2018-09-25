@@ -1,0 +1,44 @@
+.document-wrap-content .ui.animated.button{
+    margin-left: 20px;
+    height: 50px;
+    font-size: 16px;
+    background-color: #2098D1;
+    color: white;
+}
+
+
+.document-wrap-content .ui.animated.button .hidden{
+    display: block !important;
+}
+
+
+.admin-elements .ui.move.reveal {
+    
+    border: 5px solid white;
+    border-radius: 20px;
+}
+.admin-elements .ui.reveal {
+    
+    display:block !important;
+}
+.admin-elements .ui.content{
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    float: none !important;
+    background-color: #2098D1;
+    color: white !important;
+}
+.admin-elements .ui.content a{
+    color: white !important;
+    font-size: 2em !important;
+}
+
+.admin-elements .ui.hidden{
+    top: 0px;
+    display: block !important;
+    opacity: 0.5;
+}
+.admin-elements .ui.hidden i.icon{
+    font-size: 5em !important;
+}

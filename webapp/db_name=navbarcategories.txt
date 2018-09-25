@@ -1,0 +1,85 @@
+/* 1 */
+{
+    "_id" : ObjectId("5af07215c12740bc98ac582f"),
+    "idNode" : 1,
+    "parentNode" : "giới thiệu",
+    "subList" : [ 
+        {
+            "subMenu" : "Trường"
+        }, 
+        {
+            "subMenu" : "Đoàn thanh niên"
+        }, 
+        {
+            "subMenu" : "Hội sinh viên"
+        }, 
+        {
+            "subMenu" : "Câu lạc bộ đoàn hội"
+        }
+    ]
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5af07265c12740bc98ac584f"),
+    "idNode" : 2,
+    "parentNode" : "tin tức",
+    "subList" : [ 
+        {
+            "subMenu" : "Trường"
+        }, 
+        {
+            "subMenu" : "hoạt động phong trào"
+        }, 
+        {
+            "subMenu" : "hoạt động quyên góp"
+        }, 
+        {
+            "subMenu" : "công tác tổ chức"
+        }
+    ]
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5af072e9c12740bc98ac5878"),
+    "idNode" : 3,
+    "parentNode" : "sự kiện",
+    "subList" : [ 
+        {
+            "subMenu" : "ĐTN - HSV trường"
+        }, 
+        {
+            "subMenu" : "cơ sở"
+        }, 
+        {
+            "subMenu" : "năm học"
+        }
+    ]
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5af07305c12740bc98ac5884"),
+    "idNode" : 4,
+    "parentNode" : "văn bản",
+    "subList" : [ 
+        {
+            "subMenu" : "Văn bản thông báo"
+        }, 
+        {
+            "subMenu" : "biểu mẫu"
+        }, 
+        {
+            "subMenu" : "văn bản khác"
+        }
+    ]
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5af07379c12740bc98ac58a9"),
+    "idNode" : 5,
+    "parentNode" : "liên hệ",
+    "subList" : []
+}

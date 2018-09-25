@@ -1,0 +1,17 @@
+-new, event: bài viết, số lượng người view, gửi mail confirm ng tham gia, thời gian mở đầu- diễn ra
+- Offer: 
+
+-Alert: list notification
+
+- access: map chỉ đường giới hạn trong BK(quay map tùy theo ý ng dùng) (lấy vị trí hiện tại của user đang đứng)
+			+ tham quan (360 view)
+			
+- Dining: thể hiện vị trí, hình ảnh những chỗ ăn uống trong trường (áp dụng Access)
+- Photo: chụp hình (giới hạn dung lượng)
+- Gallery: upload hình vào library
+- Video: kênh youtube ĐH BK (load kênh về)
+- Library: gồm ebook manager
+- Athletics: kết nối data vs BlueShark 
+- Skills: youtube về kĩ năng
+- Shop: bán đồ lưu niệm BK (cart ...)
+...
